@@ -1,0 +1,5 @@
+2017-10-12 09:43:07,785 (AbstractApplicationContext.java:578) INFO  --> Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4e515669: startup date [Thu Oct 12 09:43:07 CST 2017]; root of context hierarchy
+2017-10-12 09:43:07,821 (XmlBeanDefinitionReader.java:317) INFO  --> Loading XML bean definitions from class path resource [KXDCT.xml]
+2017-10-12 09:43:08,332 (ThreadManager.java:34) INFO  --> 实时数据刷新线程启动完成！
+2017-10-12 09:43:08,345 (ThreadManager.java:42) INFO  --> 周期入库线程启动：NBQ
+2017-10-12 09:43:08,345 (ThreadManager.java:44) INFO  --> 周期入库线程启动完成！
